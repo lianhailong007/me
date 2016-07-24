@@ -972,9 +972,22 @@ figure.effect-bubba:hover p {
 }
 
 #shu{
-	/*font-size: 40px;*/
+	font-size: 40px;
 }
 #ziti{
 	font-family: "微软雅黑";
 	font-size: 12px;
+}
+#zp{
+	position: absolute;
+	top: -200px;
+	left: 50%;
+	margin-left: -100px;
+	width: 200px!important;
+	height: 200px!important;
+	border-radius: 50%!important;
+	overflow: hidden;
+}
+#zp img{
+	margin-top: -10px;
 }
